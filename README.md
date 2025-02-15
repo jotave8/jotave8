@@ -18,8 +18,8 @@
 ## 📈 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joao&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotave8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jotave8&theme=dracula"/>
 </p>
 
 ---
