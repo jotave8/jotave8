@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou João Victor Oliveira de Lima! 👋</h1>
+<h1 align="center">Olá, eu sou João Victor! 👋</h1>
 
 <p align="center">
   🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong>IFBA - Campus Salvador</strong>  
