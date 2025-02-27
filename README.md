@@ -20,9 +20,10 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotave8&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=300">
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jotave8&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotave8&theme=dracula&hide_border=true&layout=compact">
 </p>
----
 
+---
 ## 📬 Entre em Contato
 
 <p align="center">
