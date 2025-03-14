@@ -2,8 +2,8 @@
 
 <p align="center">
   🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong>IFBA - Campus Salvador</strong>  
-  💻 Técnico em Eletrônica e Auxiliar Técnico em Manutenção de Equipamentos Biomédicos  
-  🚀 Apaixonado por <strong>IoT, Sistemas Embarcados e Programação em C</strong>  
+  💻 Formado como Técnico em Eletrônica e atuando como Técnico em Manutenção de Equipamentos Biomédicos  
+  🚀 Apaixonado por <strong>Eletrônica, Robótica e Programação</strong>  
 </p>
 
 ---
