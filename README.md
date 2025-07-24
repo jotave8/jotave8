@@ -2,7 +2,7 @@
 
 <p align="center">
   🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no <strong>IFBA - Campus Salvador</strong>  
-  💻 Formado como Técnico em Eletrônica e atuando como Técnico em Manutenção de Equipamentos Biomédicos  
+  💻 Formado como Técnico em Eletrônica e estagiando como Desenvolvedor COBOL Mainframe 
   🚀 Apaixonado por <strong>Eletrônica, Robótica e Programação</strong>  
 </p>
 
